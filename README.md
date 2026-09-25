@@ -14,12 +14,12 @@ The application is deployed online with the help of Streamlit.
 ## ✨ Features
 The following are the features of the application:
 
-🎥 Select a movie from the movie list
-🤖 Get 5 similar movies recommended
-🔍 Content based recommendation
-⚡ Interactive Streamlit interface
-💾 Movie recommendation system uses joblib
-🌐 Deployed using Streamlit
+- 🎥 Select a movie from the movie list
+- 🤖 Get 5 similar movies recommended
+- 🔍 Content based recommendation
+- ⚡ Interactive Streamlit interface
+- 💾 Movie recommendation system uses joblib
+- 🌐 Deployed using Streamlit
 
 
 ## 🛠️ Technologies Used
@@ -113,18 +113,21 @@ Recommended Movies:
 
 ## 🔮 Future Scope
 The following are the future scope of the project:
-🖼️ Add movie posters
-⭐ Add movie ratings
-📝 Add movie descriptions
-🎭 Add genre filtering
-👤 Add personalized movie recommendations
-📊 Add movie recommendation analytics
-🤖 Improve movie recommendation accuracy
-🔐 Add user authentication
+- 🖼️ Add movie posters
+- ⭐ Add movie ratings
+- 📝 Add movie descriptions
+- 🎭 Add genre filtering
+- 👤 Add personalized movie recommendations
+- 📊 Add movie recommendation analytics
+- 🤖 Improve movie recommendation accuracy
+- 🔐 Add user authentication
 
 ## 👨‍💻 Author
+
 Sunil Kumar
+
 AI & Machine Learning Student
+
 Python | Machine Learning | Data Science | Streamlit
 
 ## ⭐ Support
