@@ -68,6 +68,7 @@ The structure of the project is given below:
 Movie-Recommendation-System/
 
 ├── app.py
+
 ├── movies.pkl
 ├── similarity.joblib
 ├── requirements.txt
