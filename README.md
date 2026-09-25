@@ -36,22 +36,38 @@ The following are the technologies that have been used in this project:
 The working of the project Movie Recommendation System can be better understood with the help of the diagram below:
  
 - Movie Dataset
-      ↓
+
+  ↓
+
 - Data Preprocessing
-      ↓
+
+  ↓
+  
 - Feature Extraction
-      ↓
+
+  ↓
+  
 - Calculate Movie Similarity
-      ↓
+
+  ↓
+  
 - Save Objects using Joblib
-      ↓
+  
+  ↓
+  
 - Load Objects in Streamlit
-      ↓
+  
+   ↓
+  
 - User Selects Movie
-      ↓
+  
+  ↓
+  
 - Find Similar Movies
-      ↓
-- Display Top 5 Similar Movies
+  
+  ↓
+  
+-Display Top 5 Recommendations
 
 ## How the application works:
 1. Movie Dataset is loaded and preprocessed
