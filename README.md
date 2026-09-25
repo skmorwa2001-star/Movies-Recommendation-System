@@ -74,6 +74,7 @@ Movie-Recommendation-System/
 ├── similarity.joblib
 
 ├── requirements.txt
+
 └── README.md
 
 ## 🚀 How to run the project
