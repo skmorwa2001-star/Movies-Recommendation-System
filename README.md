@@ -67,7 +67,7 @@ The working of the project Movie Recommendation System can be better understood 
   
   ↓
   
--Display Top 5 Recommendations
+- Display Top 5 Recommendations
 
 ## How the application works:
 1. Movie Dataset is loaded and preprocessed
