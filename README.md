@@ -66,6 +66,7 @@ Display Top 5 Similar Movies
 ## 📂 Project Structure
 The structure of the project is given below:
 Movie-Recommendation-System/
+
 ├── app.py
 ├── movies.pkl
 ├── similarity.joblib
