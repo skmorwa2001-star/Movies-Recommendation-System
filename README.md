@@ -70,7 +70,9 @@ Movie-Recommendation-System/
 ├── app.py
 
 ├── movies.pkl
+
 ├── similarity.joblib
+
 ├── requirements.txt
 └── README.md
 
